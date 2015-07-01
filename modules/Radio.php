@@ -1,6 +1,6 @@
 <?php
 
-namespace Zolotarev\yii\SemanticUI\modules;
+namespace Zelenin\yii\SemanticUI\modules;
 
 use Yii;
 use yii\helpers\Html;

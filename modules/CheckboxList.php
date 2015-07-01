@@ -1,11 +1,11 @@
 <?php
 
-namespace Zolotarev\yii\SemanticUI\modules;
+namespace Zelenin\yii\SemanticUI\modules;
 
 use Yii;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;
-use Zolotarev\yii\SemanticUI\InputWidget;
+use Zelenin\yii\SemanticUI\InputWidget;
 
 class CheckboxList extends InputWidget
 {

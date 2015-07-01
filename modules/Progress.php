@@ -1,11 +1,11 @@
 <?php
 
-namespace Zolotarev\yii\SemanticUI\modules;
+namespace Zelenin\yii\SemanticUI\modules;
 
 use Yii;
 use yii\helpers\Html;
 use yii\helpers\Json;
-use Zolotarev\yii\SemanticUI\Widget;
+use Zelenin\yii\SemanticUI\Widget;
 
 class Progress extends Widget
 {

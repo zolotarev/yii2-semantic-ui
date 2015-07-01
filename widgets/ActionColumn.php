@@ -1,10 +1,10 @@
 <?php
 
-namespace Zolotarev\yii\SemanticUI\widgets;
+namespace Zelenin\yii\SemanticUI\widgets;
 
 use Yii;
 use yii\helpers\Html;
-use Zolotarev\yii\SemanticUI\Elements;
+use Zelenin\yii\SemanticUI\Elements;
 
 class ActionColumn extends \yii\grid\ActionColumn
 {

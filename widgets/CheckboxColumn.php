@@ -1,11 +1,11 @@
 <?php
 
-namespace Zolotarev\yii\SemanticUI\widgets;
+namespace Zelenin\yii\SemanticUI\widgets;
 
 use Closure;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Json;
-use Zolotarev\yii\SemanticUI\modules\Checkbox;
+use Zelenin\yii\SemanticUI\modules\Checkbox;
 
 class CheckboxColumn extends \yii\grid\CheckboxColumn
 {

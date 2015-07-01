@@ -1,11 +1,11 @@
 <?php
 
-namespace Zolotarev\yii\SemanticUI\widgets;
+namespace Zelenin\yii\SemanticUI\widgets;
 
 use yii\base\Model;
 use yii\helpers\Html;
-use Zolotarev\yii\SemanticUI\Elements;
-use Zolotarev\yii\SemanticUI\modules\Select;
+use Zelenin\yii\SemanticUI\Elements;
+use Zelenin\yii\SemanticUI\modules\Select;
 
 class DataColumn extends \yii\grid\DataColumn
 {
