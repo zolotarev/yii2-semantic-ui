@@ -20,5 +20,6 @@ class InputWidget extends \yii\widgets\InputWidget
     public function registerJsAsset()
     {
         SemanticUIJSAsset::register($this->getView());
+        //TODO: TEST!!!
     }
 }
