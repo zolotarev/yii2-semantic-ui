@@ -1,13 +1,13 @@
 <?php
 
-namespace Zelenin\yii\SemanticUI\collections;
+namespace Zolotarev\yii\SemanticUI\collections;
 
 use Yii;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;
 use yii\helpers\Url;
-use Zelenin\yii\SemanticUI\Elements;
-use Zelenin\yii\SemanticUI\Widget;
+use Zolotarev\yii\SemanticUI\Elements;
+use Zolotarev\yii\SemanticUI\Widget;
 
 class Menu extends Widget
 {

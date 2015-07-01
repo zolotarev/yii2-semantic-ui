@@ -1,6 +1,6 @@
 <?php
 
-namespace Zelenin\yii\SemanticUI\widgets;
+namespace Zolotarev\yii\SemanticUI\widgets;
 
 use yii\helpers\Html;
 

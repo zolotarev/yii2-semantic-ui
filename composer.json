@@ -1,6 +1,6 @@
 {
-    "name": "zolotarev/yii2-semantic-ui",
-    "description": "EXTENDED Semantic UI extension for Yii2",
+    "name": "Zolotarev/yii2-semantic-ui",
+    "description": "Semantic UI extension for Yii2",
     "type": "yii2-extension",
     "keywords": [
         "yii2",
@@ -8,19 +8,19 @@
         "semantic",
         "semantic ui"
     ],
-    "homepage": "https://github.com/zolotarev/yii2-semantic-ui",
+    "homepage": "https://github.com/Zolotarev/yii2-semantic-ui",
     "license": "MIT",
     "authors": [
         {
-            "name": "Andrew Zolotarev",
-            "email": "aleksandr@zelenin.me",
-            "homepage": "http://zelenin.me",
+            "name": "Aleksandr Zolotarev",
+            "email": "aleksandr@Zolotarev.me",
+            "homepage": "http://Zolotarev.me",
             "role": "Developer"
         }
     ],
     "support": {
-        "issues": "https://github.com/zolotarev/yii2-semantic-ui/issues",
-        "source": "https://github.com/zolotarev/yii2-semantic-ui"
+        "issues": "https://github.com/Zolotarev/yii2-semantic-ui/issues",
+        "source": "https://github.com/Zolotarev/yii2-semantic-ui"
     },
     "require": {
         "yiisoft/yii2": "2.*",

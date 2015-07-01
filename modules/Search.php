@@ -1,12 +1,12 @@
 <?php
 
-namespace Zelenin\yii\SemanticUI\modules;
+namespace Zolotarev\yii\SemanticUI\modules;
 
 use Yii;
 use yii\helpers\Html;
 use yii\helpers\Json;
-use Zelenin\yii\SemanticUI\Elements;
-use Zelenin\yii\SemanticUI\Widget;
+use Zolotarev\yii\SemanticUI\Elements;
+use Zolotarev\yii\SemanticUI\Widget;
 
 class Search extends Widget
 {

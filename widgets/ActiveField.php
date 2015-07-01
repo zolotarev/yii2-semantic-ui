@@ -1,13 +1,13 @@
 <?php
 
-namespace Zelenin\yii\SemanticUI\widgets;
+namespace Zolotarev\yii\SemanticUI\widgets;
 
 use Yii;
 use yii\helpers\Html;
-use Zelenin\yii\SemanticUI\modules\Checkbox;
-use Zelenin\yii\SemanticUI\modules\CheckboxList;
-use Zelenin\yii\SemanticUI\modules\Dropdown;
-use Zelenin\yii\SemanticUI\modules\RadioList;
+use Zolotarev\yii\SemanticUI\modules\Checkbox;
+use Zolotarev\yii\SemanticUI\modules\CheckboxList;
+use Zolotarev\yii\SemanticUI\modules\Dropdown;
+use Zolotarev\yii\SemanticUI\modules\RadioList;
 
 class ActiveField extends \yii\widgets\ActiveField
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zelenin\yii\SemanticUI\widgets;
+namespace Zolotarev\yii\SemanticUI\widgets;
 
 class DetailView extends \yii\widgets\DetailView
 {

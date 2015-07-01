@@ -1,11 +1,11 @@
 <?php
 
-namespace Zelenin\yii\SemanticUI\collections;
+namespace Zolotarev\yii\SemanticUI\collections;
 
 use Yii;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;
-use Zelenin\yii\SemanticUI\Widget;
+use Zolotarev\yii\SemanticUI\Widget;
 
 class Breadcrumb extends Widget
 {
